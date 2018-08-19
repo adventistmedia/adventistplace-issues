@@ -1,5 +1,5 @@
-# Simple Church
-Use Issues to report and track bugs and feature requests for Simple Church
+# Adventist Place
+Use Issues to report and track bugs and feature requests for Adventist Place
 
 ## How to write a good bug report
 
